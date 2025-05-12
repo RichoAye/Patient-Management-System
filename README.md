@@ -53,7 +53,7 @@ This version is a **static frontend prototype**, ideal for UI/UX demos or as a f
 ---
 ## 📸 Screenshot
 
-![patient management system screenshot]()
+![patient management system screenshot](https://github.com/RichoAye/Patient-Management-System/blob/main/patient%20management%20system%20screenshut.png?raw=true)
 
 
 
